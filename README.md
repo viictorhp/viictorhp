@@ -11,7 +11,7 @@ Graduado en Economía y Máster en Data Science & AI, actualmente trabajando com
 - 🔭 **Actualmente:** AI Engineer en **Civica** — trabajando con Snowflake, DBT y Cortex Analyst
 - 🎓 **Formación:** Máster en Data Science & IA | Graduado en Economía
 - 🌱 **Aprendiendo:** Agentic AI, LangChain/LangGraph, arquitecturas RAG avanzadas
-- 💼 **LinkedIn:** [Perfil de Linkedin](www.linkedin.com/in/victorhorcaspuertas)
+- 💼 **Linkedin:** [Mi perfil de Linkedin](https://www.linkedin.com/in/victorhorcaspuertas/)
 - 📍 **Ubicación actual:** Granada, España
 
 ---
