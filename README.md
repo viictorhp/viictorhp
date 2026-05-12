@@ -118,11 +118,6 @@ Mis proyectos combinan rigor técnico con aplicabilidad práctica:
 - ✅ **Production-ready** — deployment en Streamlit Cloud, APIs, agentes conversacionales
 - ✅ **Best practices** — Git, virtual environments, requirements.txt, documentación completa
 
----
-
-
----
-
 <div align="center">
 
 </div>
