@@ -110,7 +110,6 @@ Sistema predictivo para identificar clientes con alta probabilidad de recompra u
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viictorhp&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
 ---
 
 ## 🎯 Enfoque Actual
