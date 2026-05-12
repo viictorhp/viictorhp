@@ -102,11 +102,18 @@ Sistema predictivo para identificar clientes con alta probabilidad de recompra u
 - 💡 Estrategia de negocio segmentada por probabilidad de recompra
 
 **Tech:** `Python` `XGBoost` `scikit-learn` `Pandas` `GridSearchCV`
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=viictorhp&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viictorhp&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
@@ -119,3 +126,12 @@ Mis proyectos combinan rigor técnico con aplicabilidad práctica:
 - ✅ **Testing riguroso** — cobertura completa, fixtures, edge cases
 - ✅ **Production-ready** — deployment en Streamlit Cloud, APIs, agentes conversacionales
 - ✅ **Best practices** — Git, virtual environments, requirements.txt, documentación completa
+
+---
+
+
+---
+
+<div align="center">
+
+</div>
