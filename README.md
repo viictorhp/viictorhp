@@ -1,26 +1,30 @@
-# 👋 Hola, soy Víctor Horcas
+# 👋 Hi, I'm Víctor Horcas
 
-### Data Scientist | AI Engineer
+### AI Engineer | Data Scientist | Machine Learning Engineer
 
-Graduado en Economía y Máster en Data Science & AI, actualmente trabajando como **AI Engineer en Civica** (Granada). Apasionado por construir soluciones inteligentes que combinan Machine Learning, NLP y arquitecturas de datos modernas.
+Economics graduate with MSc in Data Science & AI, currently working as **AI Engineer at Civica** (Granada, Spain). Passionate about building intelligent solutions that combine Machine Learning, NLP, and modern data architectures.
 
----
-
-## 🚀 Sobre mí
-
-- 🔭 **Actualmente:** AI Engineer en **Civica** — trabajando con Snowflake, DBT y Cortex Analyst
-- 🎓 **Formación:** Máster en Data Science & IA | Graduado en Economía
-- 🌱 **Aprendiendo:** Agentic AI, LangChain/LangGraph, arquitecturas RAG avanzadas
-- 💼 **Linkedin:** [Mi perfil de Linkedin](https://www.linkedin.com/in/victorhorcaspuertas/)
-- 📍 **Ubicación actual:** Granada, España
+🇪🇺 **EU Citizen** | **Available from Sept 2026** | **Relocating to Dublin, Ireland**
 
 ---
 
-## 🛠️ Stack Técnico
+## 🚀 About Me
 
-### Lenguajes & Core
+- 🔭 **Currently:** AI Engineer at **Civica** — working with Snowflake, DBT, and Cortex Analyst
+- 🎓 **Education:** MSc in Data Science & AI | BSc in Economics (University of Granada)
+- 🌱 **Learning:** Agentic AI, LangChain/LangGraph, advanced RAG architectures
+- 🎯 **Seeking:** Data Scientist | AI Engineer | ML Engineer roles in Dublin
+- 💼 **LinkedIn:** [linkedin.com/in/victorhorcaspuertas](https://www.linkedin.com/in/victorhorcaspuertas/)
+- 📍 **Location:** Granada, Spain → Dublin, Ireland (Sept 2026)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Machine Learning & Deep Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -33,10 +37,11 @@ Graduado en Economía y Máster en Data Science & AI, actualmente trabajando com
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
-### Data Engineering & Databases
+### Data Engineering & Cloud
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Tools & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -47,77 +52,97 @@ Graduado en Economía y Máster en Data Science & AI, actualmente trabajando com
 
 ---
 
-## 📊 Proyectos Destacados
+## 📊 Featured Projects
 
-### 🎵 [Predicción Musical - TFM](https://github.com/viictorhp/musical_predictor_PFM)
-**Clasificación Multiclase | Feature Engineering | SHAP | LangChain**
+### 🎵 [Music Industry ML Predictor - Master's Thesis](https://github.com/viictorhp/Data_Science-Master_Thesis)
+**Multiclass Classification | Feature Engineering | SHAP | LangChain**
 
-Sistema de ML que predice el tier de sala de artistas de rap/urbano español (bajo/medio/alto) analizando 6 fuentes de datos: Spotify, Last.fm, YouTube, setlist.fm y tendencias. Incluye dashboard Streamlit con explicabilidad SHAP y agente conversacional con LangChain + Groq.
+ML system predicting venue tier (low/medium/high) for Spanish rap/urban artists by analyzing 6 data sources: Spotify, Last.fm, YouTube, setlist.fm, and trends. Includes Streamlit dashboard with SHAP explainability and conversational agent with LangChain + Groq.
 
-- 🎯 **67.5% accuracy** con XGBoost tuneado sobre 157 artistas
-- 📈 32 features engineered combinando métricas de streaming, engagement y actividad en directo
-- 🤖 Agente IA para explicación interpretable de predicciones
-- 🧪 100% cobertura de tests unitarios
+- 🎯 **67.5% accuracy** with tuned XGBoost on 157 artists
+- 📈 32 engineered features combining streaming metrics, engagement, and live activity
+- 🤖 AI agent for interpretable prediction explanations
+- 🧪 100% unit test coverage
 
 **Tech:** `Python` `XGBoost` `SHAP` `LangChain` `Streamlit` `pytest`
 
 ---
 
-### 🤖 [Agente RAG - Industria Textil Española](https://github.com/viictorhp/gemini_agent)
+### 🤖 [RAG Agent - Spanish Textile Industry Expert](https://github.com/viictorhp/Data_Science---Generative_AI_Project)
 **RAG | LangGraph | Vector Store | NLP**
 
-Agente conversacional experto en la industria textil y moda española usando Retrieval-Augmented Generation. Implementa pipeline RAG completo con reformulación de queries, búsqueda semántica con MMR y generación contextual con memoria conversacional.
+Conversational agent specializing in the Spanish textile and fashion industry using Retrieval-Augmented Generation. Implements complete RAG pipeline with query reformulation, semantic search with MMR, and contextual generation with conversational memory.
 
-- 📚 Base de conocimiento: 4 PDFs (322 páginas) indexados en ChromaDB
-- 🧠 **E5 multilingual embeddings** locales sin cuotas de API
-- 🔄 **LangGraph** con 3 nodos secuenciales y memoria persistente
-- 🌐 Desplegado en [Streamlit Cloud](https://geminiagent-z9tcmwt4mrmgarz4svyrjk.streamlit.app/)
+- 📚 Knowledge base: 4 PDFs (322 pages) indexed in ChromaDB
+- 🧠 **E5 multilingual embeddings** running locally without API quotas
+- 🔄 **LangGraph** with 3 sequential nodes and persistent memory
+- 🌐 Deployed on [Streamlit Cloud](https://geminiagent-z9tcmwt4mrmgarz4svyrjk.streamlit.app/)
 
 **Tech:** `LangChain` `LangGraph` `ChromaDB` `Gemini 2.0` `Streamlit`
 
 ---
 
-### 💬 [Análisis de Sentimiento - Trustpilot](https://github.com/viictorhp/deep_learning_project)
+### 💬 [Sentiment Analysis - Trustpilot Reviews](https://github.com/viictorhp/deep_learning_project)
 **Deep Learning | NLP | Topic Modeling**
 
-Análisis de reputación online de dice.fm mediante 123K reseñas de Trustpilot. Combina análisis de sentimiento multilingüe con DistilBERT y topic modeling con TF-IDF + NMF para identificar fortalezas y debilidades versus competencia del sector.
+Online reputation analysis of dice.fm using 123K Trustpilot reviews. Combines multilingual sentiment analysis with DistilBERT and topic modeling with TF-IDF + NMF to identify strengths and weaknesses versus sector competitors.
 
-- 📊 Análisis comparativo: dice.fm vs. sector Events & Entertainment
-- 🎯 **DistilBERT multilingual** para clasificación de sentimiento (3 clases)
-- 🔍 **NMF con 6 componentes** para extracción de topics interpretables
-- 📉 Identificados gaps críticos: -37.2% en servicio al cliente, +23.8% en UX de compra
+- 📊 Comparative analysis: dice.fm vs. Events & Entertainment sector
+- 🎯 **Multilingual DistilBERT** for sentiment classification (3 classes)
+- 🔍 **NMF with 6 components** for interpretable topic extraction
+- 📉 Identified critical gaps: -37.2% in customer service, +23.8% in purchase UX
 
 **Tech:** `Transformers` `DistilBERT` `scikit-learn` `NMF` `TF-IDF`
 
 ---
 
-### 🛒 [Predicción de Recompra - E-commerce](https://github.com/viictorhp/MachineLearningProject)
+### 🛒 [Customer Churn Prediction - E-commerce](https://github.com/viictorhp/Data_Science---Machine_Learning_Project)
 **Binary Classification | Feature Engineering | RFM Analysis**
 
-Sistema predictivo para identificar clientes con alta probabilidad de recompra usando el dataset Online Retail II (1M+ transacciones). Pipeline completo de ML con feature engineering RFM, validación temporal y optimización de hiperparámetros.
+Predictive system to identify customers with high repurchase probability using Online Retail II dataset (1M+ transactions). Complete ML pipeline with RFM feature engineering, temporal validation, and hyperparameter optimization.
 
-- 📈 **AUC 0.794** con XGBoost como mejor modelo
-- 🎯 Features RFM (Recencia, Frecuencia, Revenue) + engineered variables
-- ⚖️ Validación temporal para evitar data leakage
-- 💡 Estrategia de negocio segmentada por probabilidad de recompra
+- 📈 **AUC 0.794** with XGBoost as best model
+- 🎯 RFM features (Recency, Frequency, Monetary) + engineered variables
+- ⚖️ Temporal validation to prevent data leakage
+- 💡 Business strategy segmented by repurchase probability
 
 **Tech:** `Python` `XGBoost` `scikit-learn` `Pandas` `GridSearchCV`
 
-<div align="center">
+---
 
-</div>
+## 🏆 Certifications
+
+- 🥇 **Google Cloud:** Architect Intelligent Customer Analytics (BigQuery & Looker) - Advanced
+- 🥇 **Google Cloud:** Add Agents to Gemini Enterprise - Advanced
+- 📊 **DataCamp:** Intermediate SQL & Python
+- 🗣️ **Cambridge English:** B2 First Certificate
 
 ---
-## 🎯 Enfoque Actual
 
-Mis proyectos combinan rigor técnico con aplicabilidad práctica:
+## 🎯 Current Focus
 
-- ✅ **End-to-end ML pipelines** — desde ingesta de datos hasta deployment
-- ✅ **Explicabilidad** — SHAP, feature importance, análisis de errores
-- ✅ **Testing riguroso** — cobertura completa, fixtures, edge cases
-- ✅ **Production-ready** — deployment en Streamlit Cloud, APIs, agentes conversacionales
-- ✅ **Best practices** — Git, virtual environments, requirements.txt, documentación completa
+My projects combine technical rigor with practical applicability:
+
+- ✅ **End-to-end ML pipelines** — from data ingestion to deployment
+- ✅ **Explainability** — SHAP, feature importance, error analysis
+- ✅ **Rigorous testing** — full coverage, fixtures, edge cases
+- ✅ **Production-ready** — deployment on Streamlit Cloud, APIs, conversational agents
+- ✅ **Best practices** — Git, virtual environments, requirements.txt, comprehensive documentation
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 **LinkedIn:** [linkedin.com/in/victorhorcaspuertas](https://www.linkedin.com/in/victorhorcaspuertas/)
+- 📧 **Email:** vichop03@gmail.com
+- 🌐 **Portfolio:** Check out my pinned repositories below ⬇️
+
+---
 
 <div align="center">
+
+**🔍 Open to opportunities in Dublin, Ireland from September 2026**  
+**💼 Data Scientist | AI Engineer | ML Engineer roles**  
+**🇪🇺 EU Citizen - No visa sponsorship required**
 
 </div>
